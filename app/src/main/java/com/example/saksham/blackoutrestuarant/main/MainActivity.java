@@ -4,7 +4,6 @@ package com.example.saksham.blackoutrestuarant.main;
 import android.content.Context;
 import android.content.Intent;
 import android.content.res.Resources;
-//import android.databinding.DataBindingUtil;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.FloatingActionButton;
